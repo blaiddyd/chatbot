@@ -1,0 +1,10 @@
+.bigchungus {
+    font-size: 30pt;
+    color: #ff4081;
+    text-align: center;
+}
+
+#chatbot, #chatwmelol {
+    display: flex;
+    justify-content: center;
+}
